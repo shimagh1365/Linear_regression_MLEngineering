@@ -1,0 +1,5 @@
+numpy
+pandas
+scikit-learn
+unittest2
+Flask
